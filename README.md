@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+
+#### Let's connect!
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />]()
 
 <!--
 **viserionnina/viserionnina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
