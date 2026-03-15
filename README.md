@@ -2,7 +2,11 @@
 
 I'm Nicole - Nina online - a Computer Engineering student from Croatia who enjoys building practical projects, learning new technologies, and improving my programming skills through real work and study projects.
 
-Outside of work, I enjoy 3D design and other forms of creative digital work, and I’m currently expanding my knowledge in machine learning, cybersecurity, and database security.
+I'm especially interested in machine learning, cybersecurity, and database security, and I enjoy exploring how these areas connect in real-world applications.
+
+Outside of tech, I'm interested in 3D design and creative digital work.
+
+🔭 I’m currently working on a project using [**@Google**](https://github.com/google)’s BERT to distinguish SQL injection attempts from non-SQL queries. At the same time, I’m exploring Random Forest and Isolation Forest on a vulnerable demo web application to detect potential SQL injection attacks.
 
 #### Let's connect!
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/nicole-ivankovic-285150225)
