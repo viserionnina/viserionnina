@@ -1,4 +1,8 @@
-## Hi there <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+## Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+
+I'm Nicole - Nina online - a Computer Engineering student from Croatia who enjoys building practical projects, learning new technologies, and improving my programming skills through real work and study projects.
+
+Outside of work, I enjoy 3D design and other forms of creative digital work, and I’m currently expanding my knowledge in machine learning, cybersecurity, and database security.
 
 #### Let's connect!
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/nicole-ivankovic-285150225)
