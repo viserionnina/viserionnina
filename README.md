@@ -5,8 +5,9 @@ I'm Nicole — Nina online — an undergraduate Computer Science student at the 
 I'm especially interested in machine learning, cybersecurity, and database security, and I enjoy exploring how these areas connect in real-world applications.
 
 Outside of tech, I'm interested in 3D design and creative digital work.
-
+##
 🔭 I’m currently working on a project using [**@Google**](https://github.com/google)’s BERT to distinguish SQL injection attempts from non-SQL queries. At the same time, I’m exploring Random Forest and Isolation Forest on a vulnerable demo web application to detect potential SQL injection attacks.
+##
 
 Here are some technologies I have been working with:
 
