@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm Nicole — Nina online — an undergraduate Computer Science student at the University of Rijeka, Faculty of Engineering from Croatia, who enjoys building practical projects, learning new technologies, and improving my programming skills through both real-world and academic work.
+I'm Nicole — Nina online — an undergraduate Computer Science student at the University of Rijeka - Faculty of Engineering from Croatia, who enjoys building practical projects, learning new technologies, and improving my programming skills through both real-world and academic work.
 
 I'm especially interested in machine learning, cybersecurity, and database security, and I enjoy exploring how these areas connect in real-world applications.
 
